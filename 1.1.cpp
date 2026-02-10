@@ -1,11 +1,7 @@
 #include <iostream>
-#include <string>
 
-
-int main() {
-    std::cout<< "Введите имя: \n";
-    std::string name;
-    getline(std::cin, name);
-    std::cout<< "Привет, "<< name << "!\n";
+int main()
+{
+    std::cout << "Hello, World!\n";
     return 0;
 }

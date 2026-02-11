@@ -45,6 +45,8 @@ int main() {
         }
     }
 
+    std::cout << "Второе по величине число: " << max2 << "\n";
 
-        return 0;
-    }
+    return 0;
+    
+}
